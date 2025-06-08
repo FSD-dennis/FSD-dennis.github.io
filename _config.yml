@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/YG.JPEG
 about_content: | # this will include new lines to allow paragraphs
   Welcome! My name is Yuang Guo and I'm a master <strong>Computer Science</strong> student at the <strong>Boston College</strong>. Also, 
   I got a MicroMaster degree of <strong>Statistics and Computer Science</strong> from <strong>MIT</strong>. I focus on the Algorithms, also
