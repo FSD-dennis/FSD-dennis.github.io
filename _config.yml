@@ -36,7 +36,7 @@ googlescholar_username:
 # Additional icon links
 additional_links:
   - title: Resume
-    icon: fab fa-file
+    icon: fa-solid fa-file-user
     url: https://github.com/FSD-dennis/website/blob/main/files/CV.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
