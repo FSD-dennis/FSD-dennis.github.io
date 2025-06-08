@@ -19,19 +19,19 @@ email: dennisguo527@gmail.com
 darkmode: true
 
 # Social links
-twitter_username: jekyllrb
+twitter_username:
 github_username: FSD-dennis
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
+stackoverflow_username:
+dribbble_username:
+facebook_username:
+flickr_username:
+instagram_username:
 linkedin_username: yuang-guo-737728272
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+xing_username:
+pinterest_username:
+youtube_username:
+orcid_username:
+googlescholar_username:
 
 # Additional icon links
 additional_links:
