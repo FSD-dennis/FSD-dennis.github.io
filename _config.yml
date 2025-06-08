@@ -52,9 +52,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Welcome! My name is Yuang Guo and I'm a master <strong>Computer Science</strong> student at the <strong>Boston College</strong>. Also, I got a MicroMaster degree of
-                <strong>Statistics and Computer Science</strong> from <strong>MIT</strong>.
-                
+  Welcome! My name is Yuang Guo and I'm a master <strong>Computer Science</strong> student at the <strong>Boston College</strong>. Also, 
+  I got a MicroMaster degree of <strong>Statistics and Computer Science</strong> from <strong>MIT</strong>. I focus on the Algorithms, also
+  have knowledge of the frontend and backend, Now I worked as an AI Engineer in an startup company.
+
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
@@ -69,7 +70,7 @@ content:
         border:
           weak # Value of `weak` will display a weak border below this item. # Any
           # other value (or no value) means no border will be displayed
-        title: Project name
+        title: AI Imitation Werewolf Game (Website + Andriod version)
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
