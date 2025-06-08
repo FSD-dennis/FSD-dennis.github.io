@@ -36,7 +36,7 @@ googlescholar_username:
 # Additional icon links
 additional_links:
   - title: Resume
-    icon: fa-solid fa-file-user
+    icon: fa-solid fa-file
     url: https://github.com/FSD-dennis/website/blob/main/files/CV.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -56,6 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
   I got a MicroMaster degree of <strong>Statistics and Computer Science</strong> from <strong>MIT</strong>. I focus on the Algorithms, also
   have knowledge of the frontend and backend, Now I worked as an AI Engineer in an startup company.
 
+  I like Algorithms very much and very like the deduction of it.
+
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
@@ -71,17 +73,17 @@ content:
           weak # Value of `weak` will display a weak border below this item. # Any
           # other value (or no value) means no border will be displayed
         title: AI Imitation Werewolf Game (Website + Andriod version)
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Demo for the game
+        link: https://ideatrixlab.com/
+        link_text: Application Introduction
         additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title: Demo for the project
+            icon: fa-solid fa-globe
+            url: https://ideatrixlab.com/wp-content/uploads/2024/12/game-demo-ideatrix.mp4
+          # - title: Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Imitate the whole process for the werewolf game and you can participate as a player as any role
+          Imitate the whole process for the WEREWOLF
         description: | # this will include new lines to allow paragraphs
           Using Flask as backend, React as frontend, Socket.IO for real interactive and MongoDB for online data storing
 
