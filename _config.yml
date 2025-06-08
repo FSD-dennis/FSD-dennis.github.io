@@ -57,14 +57,28 @@ about_content: | # this will include new lines to allow paragraphs
   have knowledge of the frontend and backend, Now I worked as an AI Engineer in an startup company.
 
   I like Algorithms very much and very like the deduction of it.
+  My work can focus on Algorithms, Risk Modelling, Finance Prediction, AI & ML Engineer, 
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Ideatrixlab
+        sub_title: AI Engineer & Full Stack Developer
+        caption: Jan 2025 - present
+        link: https://ideatrixlab.com/
+        quote: >
+          Developing AI-driven NPC mobile narrative game that transforms interactive entertainment.
+        description: |
+          Using Flask as backend, React as frontend, Socket.IO for real interactive and MongoDB for online data storing to simulate the full gameplay loop of a classic Werewolf-style social deduction game.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -93,18 +107,24 @@ content:
 
           This work demonstrates end-to-end role-based simulation, user input handling, real-time interaction, and role-specific logic in a dynamic multi-agent environment.
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        border: weak
+        title: LLM-powered Emotion-Based Chat Companion
+        link: https://emotionchat.ai/
+        link_text: Emotion Chat Homepage
+        additional_links:
+          - title: Research Showcase
+            icon: fa-solid fa-video
+            url: https://emotionchat.ai/demo
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+          Uses LLM and voice input to detect emotion and respond empathetically.
+        description: |
+          This project features an AI-powered chat companion that detects emotional cues from voice input using speech-to-text and emotion recognition algorithms.
+
+          The app leverages large language models (LLMs) to generate empathetic responses based on user tone, sentiment, and context. It supports real-time interaction, audio-to-text conversion, and memory-based dialogue flow.
+
+          Built with Python backend (FastAPI), OpenAI APIs, React front-end, and integrated emotion inference pipeline using open-source models. Designed for mental wellness applications and emotionally intelligent interfaces.
+
   - title: Education
     layout: list
     content:
