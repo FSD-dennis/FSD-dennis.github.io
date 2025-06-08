@@ -20,13 +20,13 @@ darkmode: true
 
 # Social links
 twitter_username: jekyllrb
-github_username: jekyll
+github_username: FSD-dennis
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
 instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: yuang-guo-737728272
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
@@ -72,7 +72,7 @@ content:
           # other value (or no value) means no border will be displayed
         title: AI Imitation Werewolf Game (Website + Andriod version)
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: Demo for the game
         additional_links:
           - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -81,9 +81,16 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Imitate the whole process for the werewolf game and you can participate as a player as any role
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Using Flask as backend, React as frontend, Socket.IO for real interactive and MongoDB for online data storing
+
+          This project simulates the full gameplay loop of a classic Werewolf-style social deduction game. It is designed to allow players—both human and AI—to participate interactively, assuming any role within the game such as Villager, Seer, Witch, or Werewolf.
+
+          The system replicates each game phase: role assignment, night actions, day discussion, voting, and elimination. Players can observe or actively engage, making strategic decisions and communicating with others. The AI agents are capable of mimicking human reasoning and dialogue, enhancing immersion and unpredictability.
+
+          This work demonstrates end-to-end role-based simulation, user input handling, real-time interaction, and role-specific logic in a dynamic multi-agent environment.
+
   - title: Experience
     layout: list
     content:
