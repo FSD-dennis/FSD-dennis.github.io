@@ -129,13 +129,33 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Boston College
+        sub_title: Duo Master of Computer Science & Economics
+        caption: 2022 -  2024
         quote: >
-          Short institution or course description (optional)
+          Algorithms, Econometrics, Micro Economics and Macro Economics, Ethics and Policy, Machine Learning, Cloud Computing, Computer Vision & LLM.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Gained a strong foundation across data science, economics, and computing fields, with a particular focus on machine learning and AI.
+
+          Developed and deployed multiple machine learning projects, including classification models, time series forecasting, and recommendation systems. Applied real-world datasets to build predictive analytics pipelines using Python, TensorFlow, and scikit-learn.
+
+          Gained hands-on experience with cloud computing platforms and implemented scalable ML workflows. Engaged in research-driven projects involving computer vision and large language models (LLMs), integrating advanced algorithms with practical solutions.
+
+      - layout: top-right
+        title: MIT
+        sub_title: MicroMaster of Statistics and Computer Science
+        caption: 2023 -  2024
+        quote: >
+          Statistics, Probabilities, Machine Learning, Statistical Modeling and Computation, Time Series Analysis
+        description: | # this will include new lines to allow paragraphs
+          Built a rigorous foundation in statistical theory and applied methods, covering probability theory, hypothesis testing, and multivariate analysis.
+
+          Gained practical experience developing machine learning models, applying algorithms such as logistic regression, decision trees, and support vector machines to real-world datasets.
+
+          Specialized in time series analysis and forecasting, including ARIMA, exponential smoothing, and advanced state-space models. Developed and deployed models to analyze and predict economic and business trends.
+
+          Applied statistical programming using Python and R to build end-to-end data pipelines and visualization dashboards. Created multiple projects integrating computation with insights, enabling data-driven decision-making in various domains.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
